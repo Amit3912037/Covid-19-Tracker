@@ -1,0 +1,22 @@
+.table-sort{
+  cursor: pointer;
+ 
+}
+i{
+  pointer-events: none
+
+}
+.search-place{
+   width: 50% ;
+   margin: auto;
+   height: 50px;
+   box-shadow: 0 0 5px	#292b2c;
+}
+.search-form{
+  margin: 50px auto;
+}
+
+.table-sort:hover{
+ background-color: #545556;
+}
+
